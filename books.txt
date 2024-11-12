@@ -1,0 +1,19 @@
+CT01, Hoàng Sa - Trường Sa trong tâm thức người Việt, Lưu Văn Lợi, Kim Quang Minh, Công an Nhân dân, Chính trị - Xã hội, 50, 0, 50
+CT02, Hướng về biển, đảo quê hương, Nhiều tác giả, Nhà xuất bản Hà Nội, Chính trị - Xã hội, 30, 0, 30
+CT03, Tuổi trẻ lạc lối và những kiến thức của tôi, Hiền Trang, Nhà xuất bản Hà Nội, Chính trị - Xã hội, 30, 0, 30
+CT04, Hoàng Sa - Trường Sa trong thư tịch cổ, Đinh Kim Phúc, Nhà xuất bản Hội Nhà Văn, Chính trị - Xã hội, 40, 0, 40
+CT05, Bài tập học phần tư tưởng Hồ Chí Minh, Lại Quốc Khánh, Lê Thị Sự, Lê Quang Đăng, Nhà xuất bản Chính trị quốc gia, Chính trị - Xã hội, 10, 0, 10
+CT06, Nước Mỹ nhìn từ bên trong, Donald J.Trump, Nhà xuất bản Thế giới, Chính trị - Xã hội, 55, 0, 55
+CT07, Đảo Bạch Long Vĩ kiên cường, Ths. Nguyễn Hằng Thanh, Nhà xuất bản Thanh niên, Chính trị - Xã hội, 30, 0, 30
+TH01, Photoshop chuyên đề làm mịn da, Phạm Quang Hiển, Nhà xuất bản Hà Nội, Tin học, 20, 0, 20
+TH02, Tự học Word 2010 bằng hình, Nguyễn Văn Hai, Nhà xuất bản Hà Nội, Tin học, 10, 0, 10
+TH03, 25 phương pháp sử dụng internet an toàn, Cao Cường, Nhà xuất bản Hà Nội, Tin học, 20, 0, 20
+TH04, HD thực hành Photoshop CS5 T1, Nguyễn Công Minh, Nhà xuất bản Hà Nội, Tin học, 25, 0, 25
+TH05, HD thực hành Photoshop CS5 T2, Nguyễn Công Minh, Nhà xuất bản Hà Nội, Tin học, 25, 0, 25
+TH06, Tự học các tuyệt chiêu & mẹo hay Excel 2010, Nguyễn Nam Thuận, Nhà xuất bản Hà Nội, Tin học, 10, 0, 10
+TH08, Hướng dẫn thực hành Adobe Photoshop CS6, Khải Hoàn, Nhà xuất bản Hà Nội, Tin học, 20, 0, 20
+TH09, Hướng dẫn thực hành Adobe Flash CS6, Khải Hoàn, Nhà xuất bản Hà Nội, Tin học, 20, 0, 20
+TH10, Hướng dẫn thực hành Adobe Illustrator CS6, Khải Hoàn, Nhà xuất bản Hà Nội, Tin học, 20, 0, 20
+TH11, Hướng dẫn thực hành Adobe Indesign CS6, Khải Hoàn, Nhà xuất bản Hà Nội, Tin học, 20, 0, 20
+TH12, Hướng dẫn thực hành Adobe Dreamweaver, Khải Hoàn, Nhà xuất bản Hà Nội, Tin học, 20, 0, 20
+TH13, Máy tính xách tay - Nguyên tắc sử dụng và khắc phục sự cố, Ngô Vũ Hải, Nhà xuất bản Hà Nội, Tin học, 10, 0, 10
